@@ -1,4 +1,4 @@
-file = open("inputs/inputs.txt", "r")
+file = open("01/problem2/inputs/inputs.txt", "r")
 count = 0
 convert_dict = {
     "one" : '1',
